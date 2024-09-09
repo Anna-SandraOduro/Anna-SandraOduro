@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Database and python projects
 - 🤔 I’m looking for help with Programing/Coding
 - 💬 Ask me about about IT stuff
-- 📫 How to reach me: Linkedin 
+- 📫 How to reach me: linkedin.com/in/anna-sandra-oduro
 
 
 <!--
